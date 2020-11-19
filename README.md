@@ -1,5 +1,7 @@
 # Passport Authentication - Tutorial Followed
 
+Time: 41:00
+
 ## Description
 
 For this project, I followed along with Traversy Media's Node.js With Passport Authentication tutorial on Youtube. While the project is not my own creation, the tutorials helped me hone some of the skills that I have been learning in my coding bootcamp up to this point — specifically regarding Express.js, Passport, User Authentication, and EJS Layouts.
