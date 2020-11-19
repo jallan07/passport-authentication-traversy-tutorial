@@ -1,6 +1,6 @@
 # Passport Authentication - Tutorial Followed
 
-Time: 41:00
+Time: 1:12:00
 
 ## Description
 
